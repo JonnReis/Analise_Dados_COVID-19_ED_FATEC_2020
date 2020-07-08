@@ -7,9 +7,9 @@ Disclaimer/Aviso Legal: Este notebook tem um fim única e exclusivamente didáti
 ### :triangular_flag_on_post: Análise de dados feito pelos alunos:
 
 ```
-'Fabrício Vasconcellos'
-'Jonatas dos Reis'
-'Samuel Xavier'
+Fabrício Vasconcellos
+Jonatas dos Reis
+Samuel Xavier
 ```
 
 3º Semestre - ADS
