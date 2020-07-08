@@ -13,7 +13,7 @@ Samuel Xavier
 ```
 
 3º Semestre - ADS
-```
-Os dados, até a data do presente estudo, estão no https://brasil.io/dataset/covid19/caso/
+
+Os dados, até a data do presente estudo, estão no https://opendatasus.saude.gov.br/dataset/bd-srag-2020
 O presente arquivo é de 08 de Julho de 2020. Atenção: de acordo com o dia em que for feita a análise
-```
+
