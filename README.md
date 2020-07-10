@@ -2,7 +2,7 @@
 
 Disclaimer/Aviso Legal: Este notebook tem um fim única e exclusivamente didático, para alunos da FATEC, como uma introdução à Análise de Dados Públicos. Desse modo, está excluída a garantia ou responsabilidade de qualquer tipo, por exemplo, de precisão, confiabilidade, completude e atualidade das informações.
 
-Esta análise foi feita sobre os casos de COVID-19 no Brasil por municipio e estado.Foram analisados a quantidade de óbitos de casos e evolução do vírus no país.
+Esta análise foi feita sobre os casos de COVID-19 no Brasil por municípios e estado. Foram analisados a quantidade de óbitos de casos e evolução do vírus no país.
 
 
 ### :triangular_flag_on_post: Análise de dados feito pelos alunos:
