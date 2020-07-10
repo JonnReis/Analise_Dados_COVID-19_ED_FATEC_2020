@@ -11,9 +11,6 @@ Esta análise foi feita sobre os casos de COVID-19 no Brasil por municípios e e
 Fabrício Vasconcellos
 Jonatas dos Reis
 Samuel Xavier
-
-
-Prof. Fernando Masanori
 ```
 
 3º Semestre - ADS
